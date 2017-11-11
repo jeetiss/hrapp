@@ -1,0 +1,21 @@
+{
+  "presets": [
+    [
+      "env",
+      {
+        "targets": {
+          "browsers": [
+            "Chrome 60"
+          ]
+        },
+        "modules": false
+      }
+    ],
+    "react"
+  ],
+  "plugins": [
+    "emotion",
+    "transform-object-rest-spread",
+    "react-hot-loader/babel"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Александр Бородин"
+    },
+    {
+      "id": 2,
+      "name": "Сергей Пахоруков"
+    },
+    {
+      "id": 3,
+      "name": "Екатерина Седых"
+    },
+    {
+      "id": 4,
+      "name": "Юлия Ким"
+    },
+    {
+      "id": 5,
+      "name": "Александра Фёдорова"
+    }
+  ],
+  "vacancies": [
+    {
+      "id": 1,
+      "title": "Scala Developer @ Acme",
+      "assignees": [
+        3
+      ],
+      "description": "5+ лет опыта"
+    },
+    {
+      "id": 2,
+      "title": "Android Developer @ Green Robot Studio",
+      "assignees": [
+        1,
+        2
+      ],
+      "description": "Знание Kotlin"
+    }
+  ]
+}
